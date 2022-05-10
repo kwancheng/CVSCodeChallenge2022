@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CVS Code Challenge</string>
+    <string name="empty_state_label">You have no recent searches. Enter a search term above.</string>
+    <string name="search_term">Search Term</string>
+    <string name="search_button_title">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

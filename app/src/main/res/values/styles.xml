@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.TextInputLayout.ExposedDropdownMenu" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu">
+        <!-- don't show error icon at end of text input -->
+        <item name="errorIconDrawable">@null</item>
+        <!-- preserve space for errors and helper text -->
+        <item name="errorEnabled">true</item>
+        <item name="helperTextEnabled">true</item>
+    </style>
+</resources>
